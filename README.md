@@ -35,6 +35,6 @@ It's me, Szilard Mate. You've probably never heard of me. And I've never tought 
 <!--END_SECTION:waka-->
 
 ## Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=szilrdmate&theme=dark&background=000000)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szilrdmate&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
