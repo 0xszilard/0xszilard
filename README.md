@@ -6,7 +6,7 @@ It's me, Szilard Mate. You've probably never heard of me. And I've never tought 
 
 :bulb: **Tip:** Remember to appreciate the little things in life.
 
-# I'm a frontend React Developer & Tech Enthusiast :iphone:
+# I'm a Frontend React Developer & Tech Enthusiast :iphone:
 
 - 🔭 I’m currently working on Crypto Decius
 - 🌱 I’m currently learning TypeScript
