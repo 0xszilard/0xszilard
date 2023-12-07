@@ -2,8 +2,6 @@
 
 It's me, Szilard Mate. You've probably never heard of me. And I've never tought of writing a README for myself. Usually READMEs are written for applications and softwares, but here I'm writing a README about me. READ me. And you cannot star this repo, even if you click the `Star` button.
 
-:bulb: **Tip:** Remember to appreciate the little things in life.
-
 # I'm a Frontend React Developer & Tech Enthusiast :iphone:
 
 - 🔭 I’m currently working on *several portfolio projects*
@@ -34,3 +32,4 @@ It's me, Szilard Mate. You've probably never heard of me. And I've never tought 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=szilrdmate&show_icons=true&theme=vision-friendly-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szilrdmate&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+:bulb: **Tip:** Remember to appreciate the little things in life.
