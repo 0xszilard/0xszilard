@@ -4,14 +4,7 @@ It's me, Szilard Mate. You've probably never heard of me. And I've never tought 
 
 # I'm a Frontend React Developer & Tech Enthusiast :iphone:
 
-- 🔭 I’m currently working on *several portfolio projects*
-- 🌱 I’m currently learning *TypeScript*
-- 👯 I’m looking to collaborate on *Frontend projects*
-- 🤔 I’m looking to learn *Kotlin*
-- 💬 Ask me about *Motorcycles*
-- ⚡ Fun fact: JavaScript has nothing to do with Java, naming it was literally a marketing decision
-
-# 💻 My Tech Stack:
+## 💻 My Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,7 +21,7 @@ It's me, Szilard Mate. You've probably never heard of me. And I've never tought 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
-# 🏆 Stats
+## 🏆 Stats
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=szilrdmate&show_icons=true&theme=vision-friendly-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szilrdmate&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
