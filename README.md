@@ -7,7 +7,7 @@ It's me, Szilard Mate. You've probably never heard of me. And I've never tought 
 - 🔭 I’m currently working on *several portfolio projects*
 - 🌱 I’m currently learning *TypeScript*
 - 👯 I’m looking to collaborate on *Frontend projects*
-- 🤔 I’m looking to learn *Vue*
+- 🤔 I’m looking to learn *Kotlin*
 - 💬 Ask me about *Motorcycles*
 - ⚡ Fun fact: JavaScript has nothing to do with Java, naming it was literally a marketing decision
 
