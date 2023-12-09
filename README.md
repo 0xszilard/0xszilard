@@ -1,6 +1,4 @@
-![Header](header.jpg)
-
-# I'm a Frontend React Developer & Tech Enthusiast :iphone:
+# Hi, I'm Szilárd, a Frontend React Developer & Tech Enthusiast :iphone:
 
 It's me, Szilard Mate. You've probably never heard of me. And I've never tought of writing a README for myself. Usually READMEs are written for applications and softwares, but here I'm writing a README about me. READ me. And you cannot star this repo, even if you click the `Star` button.
 
@@ -20,10 +18,3 @@ It's me, Szilard Mate. You've probably never heard of me. And I've never tought 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-
-## 🏆 Stats
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=szilrdmate&show_icons=true&theme=vision-friendly-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szilrdmate&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-:bulb: **Tip:** Remember to appreciate the little things in life.
