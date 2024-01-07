@@ -22,3 +22,4 @@ It's me, Szilard Mate. You've probably never heard of me. And I've never tought 
 ## Stats
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=szilrdmate&show_icons=true&theme=transparent)
+[![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=szilrdmate)](https://github.com/anuraghazra/github-readme-stats)
