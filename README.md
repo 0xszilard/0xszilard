@@ -21,5 +21,5 @@ It's me, Szilard Mate. You've probably never heard of me. And I've never tought 
 
 ## Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=szilrdmate&show_icons=true&theme=transparent)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=szilrdmate&show_icons=true&theme=transparent&rank_icon=github&hide=stars&show=prs_merged_percentage&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szilrdmate&layout=compact&theme=transparent)
