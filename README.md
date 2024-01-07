@@ -18,3 +18,7 @@ It's me, Szilard Mate. You've probably never heard of me. And I've never tought 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+
+## Stats
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=szilrdmate&show_icons=true&theme=transparent)
