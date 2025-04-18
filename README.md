@@ -1,6 +1,12 @@
-# I'm a Full-stack React Developer & Tech Enthusiast :iphone:
+# Szilard here!
 
-It's me, Szilard. You've probably never heard of me. And I've never tought of writing a README for myself. Usually READMEs are written for applications and softwares, but here I'm writing a README about me. READ me. And you cannot star this repo, even if you click the `Star` button.
+I build software for info-products, coaches and creators. The kind of tools that turn what they know into something scalable, trackable, and hard to copy.
+
+SOme notable things:
+- 🎓 [Insider Education](https://bbe-insider.com) LMS and Exam platform for the BBE exam at WU.
+- 📹 [ScaleInsta](https://scaleinsta.com) A short-form content engine for AI-driven scripting and competitive research.
+- 📹 [Voyag.io](https://voyagio.app) AI Driven trave litinerary planner (v2 coming soon)
+- 🧪 [ThumnailAi](https://example.com) Visual thumbnail designer
 
 ## 💻 My Tech Stack:
 
@@ -35,3 +41,5 @@ It's me, Szilard. You've probably never heard of me. And I've never tought of wr
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=szilrdmate&show_icons=true&theme=transparent&rank_icon=github&hide=stars&show=prs_merged_percentage&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szilrdmate&layout=compact&theme=transparent)
+
+> If you're building something useful and want it to work better, hit me up.
