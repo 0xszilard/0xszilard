@@ -39,7 +39,7 @@ SOme notable things:
 
 ## Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=szilrdmate&show_icons=true&theme=transparent&rank_icon=github&hide=stars&show=prs_merged_percentage&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szilrdmate&layout=compact&theme=transparent)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=0xszilard&show_icons=true&theme=transparent&rank_icon=github&hide=stars&show=prs_merged_percentage&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xszilard&layout=compact&theme=transparent)
 
 > If you're building something useful and want it to work better, hit me up.
