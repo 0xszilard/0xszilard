@@ -7,6 +7,7 @@ SOme notable things:
 - 📹 [ScaleInsta](https://scaleinsta.com) A short-form content engine for AI-driven scripting and competitive research.
 - 📹 [Voyag.io](https://voyagio.app) AI Driven trave litinerary planner (v2 coming soon)
 - 🧪 [ThumnailAi](https://example.com) Visual thumbnail designer
+- 🏎️ [Revly](https://example.com) Strava for Cars
 
 ## 💻 My Tech Stack:
 
