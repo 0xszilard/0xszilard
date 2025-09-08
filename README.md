@@ -3,11 +3,9 @@
 I build software for info-products, coaches and creators. The kind of tools that turn what they know into something scalable, trackable, and hard to copy.
 
 Some notable things:
-- 🎓 [Insider Education](https://bbe-insider.com) LMS and Exam platform for the BBE exam at WU.
-- 📹 [ScaleInsta](https://scaleinsta.com) A short-form content engine for AI-driven scripting and competitive research.
-- 📹 [Voyag.io](https://voyagio.app) AI Driven trave litinerary planner (v2 coming soon)
-- 🧪 [ThumnailAi](https://example.com) Visual thumbnail designer AI
-- 🏎️ [Crew](https://example.com) Strava for Cars
+- 🎓 [Insider Education](https://insider-edventures.com) LMS and Exam platform for the BBE exam at WU.
+- 📹 [Hydrogen](https://scaleinsta.com) A short-form content engine for AI-driven scripting and competitive research.
+- 📹 [Voyagio V2](https://voyagio-v2.vercel.app) AI Driven trave litinerary planner
 
 ## 💻 My Tech Stack:
 
