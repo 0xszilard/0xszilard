@@ -6,7 +6,7 @@ I design systems that turn expertise into assets — measurable, repeatable, and
 ## 🚀 Current Ventures
 - 🎓 **[Insider Education](https://insider-edventures.com)** Building the global exam-prep ecosystem where AI-driven learning meets elite admissions outcomes.
     - **[BBE Insider](https://bbe-insider.com)** Market leader for WU Vienna’s BBE exam prep with 2,200+ users, 14% free→paid conversion, 68% admission rate, and ~€80K ARR
-    - **[WISO Insider](https://wiso-insider.com)** Fastest-growing German-language prep platform for WU’s Wirtschaft entrance exam, with 2,000+ signups in 6 weeks, 13% conversion, and ~€70K ARR.
+    - **[WISO Insider](https://wiso-insider.com)** Fastest-growing German-language prep platform for WU’s WISO entrance exam, with 2,000+ signups in 6 weeks, 13% conversion, and ~€70K ARR.
     - **[GMAT Insider](https://gmat-insider.com)** Premium MBA prep brand serving 500+ students in 30+ countries, with a 702 average GMAT score, and €4K MRR.
 - 📹 **[Hydrogen](https://hydrogenai.vercel.app)** Turns millions of short-form posts into marketing insights for founders and creative teams. 500+ beta users, 120+ paying teams, and 25% faster campaign research.
 - ✈️ **[Voyagio](https://voyagio.app)** Personalized travel-planning engine that generates multi-city itineraries with live pricing, flight integrations, and local recommendations. 4,000+ itineraries generated, 1,100 weekly actives, <3s average generation time.
