@@ -28,10 +28,4 @@ I design systems that turn expertise into assets. Measurable, repeatable, and ha
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&style=for-the-badge&logoColor=fff)
 ![Posthog](https://img.shields.io/badge/-PostHog-212121?logo=posthog&style=for-the-badge&logoColor=white)
 
-
-## Stats
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=0xszilard&show_icons=true&theme=transparent&rank_icon=github&hide=stars&show=prs_merged_percentage&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xszilard&layout=compact&theme=transparent)
-
 > Building durable internet businesses. If you’re doing the same, reach out.
