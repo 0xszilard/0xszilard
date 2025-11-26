@@ -1,7 +1,7 @@
 # I'm Szilard
 
-Founder-engineer building scalable products for education, creators, and data-driven growth.
-I design systems that turn expertise into assets — measurable, repeatable, and hard to copy.
+Founder/engineer building scalable products for education, creators, and data-driven growth.
+I design systems that turn expertise into assets. Measurable, repeatable, and hard to copy.
 
 ## 🚀 Current Ventures
 - 🎓 **[Insider Education](https://insider-edventures.com)** Building the global exam-prep ecosystem where AI-driven learning meets elite admissions outcomes.
