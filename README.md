@@ -27,5 +27,7 @@ I design systems that turn expertise into assets. Measurable, repeatable, and ha
 ![Stripe](https://img.shields.io/badge/Stripe-5851DD?logo=stripe&style=for-the-badge&logoColor=fff)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&style=for-the-badge&logoColor=fff)
 ![Posthog](https://img.shields.io/badge/-PostHog-212121?logo=posthog&style=for-the-badge&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&style=for-the-badge&logoColor=fff)
+![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&style=for-the-badge&)
 
 > Building durable internet businesses. If you’re doing the same, reach out.
