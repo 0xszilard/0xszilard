@@ -1,4 +1,4 @@
-# I'mSzilárd
+# I'm Szilárd
  
 Cofounder and CTO of [Insider EdVentures](https://insider-edventures.com). YC W25 alum.
  
