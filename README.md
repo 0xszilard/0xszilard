@@ -1,14 +1,19 @@
-# I'm Szilard
-
-Founder/engineer building scalable products for education, creators, and data-driven growth.
-I design systems that turn expertise into assets. Measurable, repeatable, and hard to copy.
-
-## 🚀 Current Ventures
-- 🎓 **[Insider Education](https://insider-edventures.com)** Building the global exam-prep ecosystem where AI-driven learning meets elite admissions outcomes.
-    - **[BBE Insider](https://bbe-insider.com)** Market leader for WU Vienna’s BBE exam prep with 2,200+ users, 14% free→paid conversion, 68% admission rate, and ~€80K ARR
-    - **[WISO Insider](https://wiso-insider.com)** Fastest-growing German-language prep platform for WU’s WISO entrance exam, with 2,000+ signups in 6 weeks, 13% conversion, and ~€70K ARR.
-    - **[GMAT Insider](https://gmat-insider.com)** Premium MBA prep brand serving 500+ students in 30+ countries, with a 702 average GMAT score, and €4K MRR.
-- ✈️ **[Voyagio](https://voyagio.app)** Personalized travel-planning engine that generates multi-city itineraries with live pricing, flight integrations, and local recommendations. 4,000+ itineraries generated, 1,100 weekly actives, <30s average generation time.
+# I'mSzilárd
+ 
+Cofounder and CTO of [Insider EdVentures](https://insider-edventures.com). YC W25 alum.
+ 
+Insider Education runs six online exam-prep products for university entrance exams and standardized tests. Close to 15,000 users in 122 countries, paying customers in 63, six-figure ARR.
+ 
+## What I build
+ 
+As CTO I look out for everything tech and platform related. The core is a native AI layer that runs across every product:
+ 
+- Personalized recommendations based on each user's performance
+- Pattern recognition on answer history to find weak topics
+- Adaptive algorithms that decide what a user practices next
+- Analytics on learning progress and product usage
+The system is built with GDPR requirements in mind: data minimization, purpose-bound processing, and EU-based operation.
+ 
 
 ## 💻 Tech Stack:
 
