@@ -1,6 +1,6 @@
 # I'm Szilárd
  
-Cofounder and CTO of [Insider EdVentures](https://insider-edventures.com). YC W25 alum.
+Cofounder and CTO of [Insider EdVentures](https://insider-edventures.com). YC W26 alum.
  
 Insider Education runs six online exam-prep products for university entrance exams and standardized tests. Close to 15,000 users in 122 countries, paying customers in 63, six-figure ARR.
  
